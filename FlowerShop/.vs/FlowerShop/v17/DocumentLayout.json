@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\mongoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:models\\mongoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|c:\\users\\gaz2\\downloads\\flowersalesapi (1)\\flowershop\\flowershop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\productparametersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:models\\productparametersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\queryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:models\\queryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\flowershop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerSales.API.csproj|solutionrelative:flowershop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\flowershop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|solutionrelative:flowershop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|solutionrelative:models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\queryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|solutionrelative:models\\queryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\productparametersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|solutionrelative:models\\productparametersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326789F7-CF54-437F-B8EF-2FBF72CF1C8D}|FlowerShop.csproj|solutionrelative:models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\gaz2\\downloads\\mvc_week15h\\mvc\\flowershop_week12 - copy\\flowershop (1)\\flowershop\\smtafe_web_app\\migrations\\20240519070221_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\TAFE\\MVC_Week15H\\MVC\\FlowerShop_Week12 - Copy\\FlowerShop (1)\\FlowerShop\\FlowerShop\\models\\ifindfluentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\MongoExtensions.cs",
+              "RelativeDocumentMoniker": "Models\\MongoExtensions.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\MongoExtensions.cs",
+              "RelativeToolTip": "Models\\MongoExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:35:56.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:59:24.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ModelBuilderExtension.cs",
+              "RelativeDocumentMoniker": "Models\\ModelBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ModelBuilderExtension.cs",
+              "RelativeToolTip": "Models\\ModelBuilderExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:49:12.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Models\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ShopContext.cs",
+              "RelativeToolTip": "Models\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:49:12.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\QueryParameters.cs",
+              "RelativeDocumentMoniker": "Models\\QueryParameters.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\QueryParameters.cs",
+              "RelativeToolTip": "Models\\QueryParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:49:12.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:14:50.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:49:12.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T07:56:49.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductParametersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ProductParametersQuery.cs",
+              "RelativeDocumentMoniker": "Models\\ProductParametersQuery.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ProductParametersQuery.cs",
+              "RelativeToolTip": "Models\\ProductParametersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:49:12.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240519070221_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\MVC_Week15H\\MVC\\FlowerShop_Week12 - Copy\\FlowerShop (1)\\FlowerShop\\SMTAFE_Web_App\\Migrations\\20240519070221_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\MVC_Week15H\\MVC\\FlowerShop_Week12 - Copy\\FlowerShop (1)\\FlowerShop\\SMTAFE_Web_App\\Migrations\\20240519070221_Initial.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\MVC_Week15H\\MVC\\FlowerShop_Week12 - Copy\\FlowerShop (1)\\FlowerShop\\SMTAFE_Web_App\\Migrations\\20240519070221_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\MVC_Week15H\\MVC\\FlowerShop_Week12 - Copy\\FlowerShop (1)\\FlowerShop\\SMTAFE_Web_App\\Migrations\\20240519070221_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:02:22.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFindFluentExtensions.cs",
+              "DocumentMoniker": "F:\\TAFE\\MVC_Week15H\\MVC\\FlowerShop_Week12 - Copy\\FlowerShop (1)\\FlowerShop\\FlowerShop\\Models\\IFindFluentExtensions.cs",
+              "ToolTip": "F:\\TAFE\\MVC_Week15H\\MVC\\FlowerShop_Week12 - Copy\\FlowerShop (1)\\FlowerShop\\FlowerShop\\Models\\IFindFluentExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:26:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T00:41:07.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:26:06.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlowerShop.http",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\FlowerShop.http",
+              "RelativeDocumentMoniker": "FlowerShop.http",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\FlowerShop.http",
+              "RelativeToolTip": "FlowerShop.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-18T02:49:12.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductParametersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ProductParametersQuery.cs",
+              "RelativeDocumentMoniker": "Models\\ProductParametersQuery.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ProductParametersQuery.cs",
+              "RelativeToolTip": "Models\\ProductParametersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:26:47.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlowerShop.http",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\FlowerShop.http",
+              "RelativeDocumentMoniker": "FlowerShop.http",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\FlowerShop.http",
+              "RelativeToolTip": "FlowerShop.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-15T00:40:41.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:24:14.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModelBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ModelBuilderExtension.cs",
+              "RelativeDocumentMoniker": "Models\\ModelBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ModelBuilderExtension.cs",
+              "RelativeToolTip": "Models\\ModelBuilderExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:08:43.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Models\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\ShopContext.cs",
+              "RelativeToolTip": "Models\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:51:24.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\QueryParameters.cs",
+              "RelativeDocumentMoniker": "Models\\QueryParameters.cs",
+              "ToolTip": "C:\\Users\\GAZ2\\Downloads\\FlowerSalesAPI (1)\\FlowerShop\\FlowerShop\\Models\\QueryParameters.cs",
+              "RelativeToolTip": "Models\\QueryParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:27:14.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

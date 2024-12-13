@@ -1,0 +1,354 @@
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\appsettings.json
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.exe
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.deps.json
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.runtimeconfig.json
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.pdb
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\DnsClient.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Humanizer.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Snappier.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.AssemblyInfoInputs.cache
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.AssemblyInfo.cs
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.FlowerSales.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.build.FlowerSales.API.props
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FlowerSales.API.props
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FlowerSales.API.props
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\scopedcss\bundle\FlowerSales.API.styles.css
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSa.76FB562B.Up2Date
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\refint\FlowerSales.API.dll
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.pdb
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.genruntimeconfig.cache
+C:\Users\GAZ2\Downloads\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\ref\FlowerSales.API.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\appsettings.Development.json
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\appsettings.json
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.exe
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.deps.json
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.runtimeconfig.json
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.pdb
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\AWSSDK.Core.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\DnsClient.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Humanizer.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\SharpCompress.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Snappier.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.CodeDom.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ZstdSharp.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.csproj.AssemblyReference.cache
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.AssemblyInfoInputs.cache
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.AssemblyInfo.cs
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.csproj.CoreCompileInputs.cache
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.MvcApplicationPartsAssemblyInfo.cs
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.MvcApplicationPartsAssemblyInfo.cache
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.build.json
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.development.json
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.FlowerSales.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.build.FlowerSales.API.props
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FlowerSales.API.props
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FlowerSales.API.props
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.pack.json
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\scopedcss\bundle\FlowerSales.API.styles.css
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSa.76FB562B.Up2Date
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\refint\FlowerSales.API.dll
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.pdb
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.genruntimeconfig.cache
+F:\TAFE\MVC_Week15H\MVC\FlowerShop_Week12 - Copy\FlowerShop (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\ref\FlowerSales.API.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\appsettings.json
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.exe
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.deps.json
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.runtimeconfig.json
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\FlowerSales.API.pdb
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\DnsClient.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Humanizer.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Snappier.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.csproj.AssemblyReference.cache
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.AssemblyInfoInputs.cache
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.AssemblyInfo.cs
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.FlowerSales.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.build.FlowerSales.API.props
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FlowerSales.API.props
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FlowerSales.API.props
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\scopedcss\bundle\FlowerSales.API.styles.css
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSa.76FB562B.Up2Date
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\refint\FlowerSales.API.dll
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.pdb
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\FlowerSales.API.genruntimeconfig.cache
+C:\Users\GAZ2\Downloads\FlowerSalesAPI (1)\FlowerShop\FlowerShop\obj\Debug\net8.0\ref\FlowerSales.API.dll
